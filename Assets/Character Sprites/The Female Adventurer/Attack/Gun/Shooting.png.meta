@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 15570666bcf942943ac881401a6160af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shooting_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa791e27aca04a4888887f450dd42d1
+      internalID: 669076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd57bf146af284abad1abff18c5271
+      internalID: -2053018752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c6fb8fa307a04a944e1792f88e63e
+      internalID: -1609100827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa093babdc8104c848f586c18835b7
+      internalID: 1954045963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f811c35d69f3458099f1182e0776d
+      internalID: 767877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e622f4da198d468c63d8fa1c0509e
+      internalID: -224581135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c5b04e2f6db447ada4e789afa386c
+      internalID: -2138141097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.73333335, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5049cb3f45094ab64475cc2ea0e28
+      internalID: -1252886927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a7f573276d5b45a29a6626ebcdee2
+      internalID: -283109955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d54bfdbca466a41bd0b397d11af669
+      internalID: -965308050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668a0d1649440b45a8c29bf4a79c5f1
+      internalID: 125900106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed0d75dfbe29846a19e3ae87aaf6ab
+      internalID: 1052745181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a116857c8e91d4dbc62566a424b35d
+      internalID: 1524061026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d0d527f0fab74891971e9acecd6f1
+      internalID: 93587642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38850fbc1d998d439a00b2dd7684006
+      internalID: 1050640205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooting_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d02ae44934e247a02de0d7926a6d7
+      internalID: -611617091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c46e023670d055f4191145357034460d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shooting_0: 669076975
+      Shooting_1: -2053018752
+      Shooting_10: 125900106
+      Shooting_11: 1052745181
+      Shooting_12: 1524061026
+      Shooting_13: 93587642
+      Shooting_14: 1050640205
+      Shooting_15: -611617091
+      Shooting_2: -1609100827
+      Shooting_3: 1954045963
+      Shooting_4: 767877084
+      Shooting_5: -224581135
+      Shooting_6: -2138141097
+      Shooting_7: -1252886927
+      Shooting_8: -283109955
+      Shooting_9: -965308050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
